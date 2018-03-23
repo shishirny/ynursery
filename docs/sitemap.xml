@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/shishir/cashew/</loc>
+<lastmod>2017-08-20T16:02:20+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/shishir/pepper/</loc>
+<lastmod>2017-08-21T16:02:20+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/shishir/arecanut/</loc>
+<lastmod>2017-08-22T16:02:20+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/shishir/vanilla/</loc>
+<lastmod>2017-08-23T16:02:20+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/shishir/jackfruit/</loc>
+<lastmod>2017-08-24T16:02:20+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/shishir/about/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/shishir/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/shishir/tags/</loc>
+</url>
+</urlset>
