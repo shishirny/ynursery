@@ -4,13 +4,13 @@ description: > # this means to ignore newlines until "baseurl:"
   Welcome to Yashaswi Nursery. Here you can find premium grafts of Cashew, Vanilla, Pepper, Mango, Jackfruit, Arecanut.
 #  Write an awesome description for your new site here. You can edit this
 permalink: ':title/'
-baseurl: "/shishir" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/ynursery" # the subpath of your site, e.g. /blog
+url: "http://ynursery.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
 author: Yashaswi Nursery # add your name
-author-pic: # shishir.JPG
-about-author: Here you can find premium grafts of Cashew, Vanilla, Pepper, Mango, Jackfruit, Arecanut. #I am an INSPIRE Faculty fellow in the Robert Bosch Center for Cyber Physical Systems (RBCCPS) in IISc Bangalore. I received my Ph.D. degree in Mechanical Engineering (2016) from the Georgia Institute of Technology. I am interested in stability and control of nonlinear hybrid systems, especially in the domain of legged robots. I have worked with robots like AMBER1, AMBER2, DURUS-2D, and DURUS. I am interested both in theoretical and practical aspects of hybrid robotic systems. In fact, my PhD dissertation was about bridging the gap between theory and experiment by using input-to-state stabilizing control Lyapunov functions (ISS-CLFs).
+author-pic: yashaswi2.png
+about-author: Yashaswi Nursery is located within the lush greens of Western Ghats, about 50 km from the coastal town of Mangalore. Contact us you are looking for premium grafts of Cashew, Vanilla, Pepper, Mango, Jackfruit, Arecanut. #I am an INSPIRE Faculty fellow in the Robert Bosch Center for Cyber Physical Systems (RBCCPS) in IISc Bangalore. I received my Ph.D. degree in Mechanical Engineering (2016) from the Georgia Institute of Technology. I am interested in stability and control of nonlinear hybrid systems, especially in the domain of legged robots. I have worked with robots like AMBER1, AMBER2, DURUS-2D, and DURUS. I am interested both in theoretical and practical aspects of hybrid robotic systems. In fact, my PhD dissertation was about bridging the gap between theory and experiment by using input-to-state stabilizing control Lyapunov functions (ISS-CLFs).
 # Contact links
 email: (shishir k) at iisc dot ac dot in # 
 phone: 
