@@ -1,7 +1,7 @@
 title: # Expert Cashew Grafts - Yadukumar Kolathaya 
 email: # nyadukumar@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Welcome to Yashaswi Nursery. Here you can find premium grafts of Cashew, Vanilla, Pepper, Mango, Jackfruit, Arecanut.
+  Welcome to Yashaswi Nursery. Here you can find premium grafts of Cashew, Pepper and Jackfruit, and seedlings of coconut and arecanut.
 #  Write an awesome description for your new site here. You can edit this
 permalink: ':title/'
 baseurl: "/ynursery" # the subpath of your site, e.g. /blog
@@ -10,15 +10,14 @@ url: "http://ynursery.com" # the base hostname & protocol for your site, e.g. ht
 # Author settings
 author: Yashaswi Nursery # add your name
 author-pic: yashaswi2.png
-about-author: # Yashaswi Nursery is located within the lush greens of Western Ghats, about 50 km from the coastal town of Mangalore. Contact us if you are looking for premium grafts of Cashew, Pepper, Coconut, Jackfruit, Arecanut. 
+about-author: Yashaswi Nursery is located within the lush greens of Western Ghats, about 50 km from the coastal town of Mangalore. It was founded by Dr. N Yadukumar in 2012, a former research scientist of Directorate of Cashew Research (DCR), Puttur.
 email: (n yadukumar) at gmail dot com # 
-phone: 
-website: shishirny.com # Add your website, do not add http://
-linkedin: shishirny # Add your Linkedin handle
-github: shishirny # Add your Github handle
-twitter: '@shishirny' # Add your Twitter handle
-instagram:  # Add your Instagram handle
-pinterest: # Add your Pinterest handle
+phone: 233758
+website: ynursery.com # Add your website, do not add http://
+linkedin: ynursery # Add your Linkedin handle
+twitter: '@ynursery' # Add your Twitter handle
+instagram: ynursery # Add your Instagram handle
+pinterest: ynursery # Add your Pinterest handle
 
 # Newsletter
 mailchimp: # Add your MailChimp form identifier.
