@@ -9,3 +9,7 @@ author: N Yadukumar #
 ---
 
 Cashew scientific name anacardeum occidentale originally found in Brazil. Portuguese brought samplings to India during late 17th century. Cashew has come a long way and is one of the largest cash crops in India. India exports 17% of the world's cashew. We at Yashaswi Nursery use Bhaskara graft variety in Cashew.
+
+![image]({{site.baseurl}}/assets/img/vrl3.jpeg){:style="float: center;margin-left: 0px;margin-top: 0px;"}
+
+![image]({{site.baseurl}}/assets/img/ullal3.jpeg){:style="float: center;margin-left: 0px;margin-top: 0px;"}

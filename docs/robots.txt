@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/ynursery/sitemap.xml
+Sitemap: http://ynursery.com/ynursery/sitemap.xml

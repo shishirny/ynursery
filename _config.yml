@@ -1,7 +1,7 @@
 title: # Expert Cashew Grafts - Yadukumar Kolathaya 
 email: # nyadukumar@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Welcome to Yashaswi Nursery. Here you can find premium grafts of Cashew, Pepper and Jackfruit, and seedlings of coconut and arecanut.
+  Welcome to Yashaswi Nursery. Here you can find premium grafts of cashew, pepper, and seedlings of coconut and arecanut.
 #  Write an awesome description for your new site here. You can edit this
 permalink: ':title/'
 baseurl: "/ynursery" # the subpath of your site, e.g. /blog
@@ -10,7 +10,7 @@ url: "http://ynursery.com" # the base hostname & protocol for your site, e.g. ht
 # Author settings
 author: Yashaswi Nursery # add your name
 author-pic: yashaswi2.png
-about-author: Yashaswi Nursery is located within the lush greens of Western Ghats, about 50 km from the coastal town of Mangalore. It was founded by Dr. N Yadukumar in 2012, a former research scientist of Directorate of Cashew Research (DCR), Puttur.
+about-author: Yashaswi Nursery is located within the lush greens of Western Ghats, about 50 km from the coastal town of Mangalore. It was founded by Dr. N Yadukumar and his wife Smt. Vanitha N Y in 2012. Dr. N Yadukumar was formerly a research scientist of Directorate of Cashew Research (DCR), Puttur.
 email: (n yadukumar) at gmail dot com # 
 phone: 233758
 website: ynursery.com # Add your website, do not add http://
@@ -35,7 +35,7 @@ paginate_path: /page:num/
 # Build settings
 markdown: kramdown
 destination: ./docs/
-plugins:
+# plugins:
 #  - jekyll-paginate
 #  - jekyll-sitemap
 
